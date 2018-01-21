@@ -6,6 +6,7 @@ Note: there may be tones of typos in the notes.
 
 ## Update
 
+* Update **lecture 5: Actor-critic algorithm**
 * Update **lecture 4: Policy gradient**
 * Update **lecture 3: Introduction to Reinforcement Learning**
 * Update **lecture 2: Imitation Learning**
